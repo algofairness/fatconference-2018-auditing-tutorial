@@ -33,7 +33,7 @@ how tutorial attendees can use this method in their own datasets.
 
 * Slides: TBD.
 * Jupyter Notebook: TBD.
-* Installation Instructions: TBD.
+* [Installation Instructions](install.html).
 
 ## Papers
  
