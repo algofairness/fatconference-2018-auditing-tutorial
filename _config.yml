@@ -1,7 +1,7 @@
 # Setup
 title:        Auditing Black Box Models
 tagline:      A hands-on tutorial at FAT* 2018.
-baseurl:      "https://algofairness.github.io/fatconference-2018-auditing-tutorial/"
+baseurl:      "/fatconference-2018-auditing-tutorial/"
 paginate:     1
 locale:       "en"
 exclude:      [ "README.md", "Gemfile.lock", "Gemfile", "jekyll-cayman-theme.gemspec" ]
