@@ -29,7 +29,11 @@ directory, and create a virtual environment inside it:
 The `(venv)` prompt in your shell indicates that the shell is running
 in a "virtual environment": new python library installs will be
 isolated from the rest of your system, so you don't risk overwriting
-anything by accident. Let's install the library now:
+anything by accident. 
+
+## The `BlackBoxAuditing` library
+
+Let's install the main library now:
 
     (venv) $ pip3 install BlackBoxAuditing
     Collecting BlackBoxAuditing
@@ -48,8 +52,17 @@ Success! Let's make sure it runs:
     Type "help", "copyright", "credits" or "license" for more information.
 		>>> import BlackBoxAuditing	
     >>> exit()
+
+## Additional tutorial requirements
+
+In this tutorial, we will use Pandas and Jupyter notebook, although
+they are not requirements for `BlackBoxAuditing`. To install Pandas, type
+
+    (venv) $ pip3 install pandas
+	...
 	
-Ok! Now let's install the [Jupyter notebook](http://jupyter.readthedocs.io/) package:
+And similarly, to install the [Jupyter
+notebook](http://jupyter.readthedocs.io/) package:
 
 	(venv) $ pip3 install jupyter
     Collecting jupyter
