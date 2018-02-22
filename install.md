@@ -46,7 +46,7 @@ Success! Let's make sure it runs:
     Python 3.6.3 (default, Oct  4 2017, 06:09:38)
     [GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.37)] on darwin
     Type "help", "copyright", "credits" or "license" for more information.
-    >>> import BlackBoxAuditing	
+		>>> import BlackBoxAuditing	
     >>> exit()
 	
 Ok! Now let's install the [Jupyter notebook](http://jupyter.readthedocs.io/) package:
@@ -75,3 +75,6 @@ application itself:
 At this point, your browser should automatically be redirected to a webpage that will look like this:
 
 ![A screenshot of Jupyter Notebook showing the tutorial notebook](images/jupyter-notebook.png) 
+
+click on "tutorial.ipynb" and it will send you directly to the Jupyter
+notebook where you'll be able to run our examples. We also have [more documentation on how to run the examples on this notebook](running.html).
