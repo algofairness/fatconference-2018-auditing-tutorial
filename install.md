@@ -3,6 +3,8 @@ layout: short
 title: Installing prerequisites
 ---
 
+# Installing the tutorial prerequisites
+
 The library for auditing models is written in Python 3, and the
 tutorial will be using Jupyter Notebooks. In this page, we will go
 over the instructions on how to install both the `BlackBoxAuditing`
@@ -72,4 +74,4 @@ application itself:
 	
 At this point, your browser should automatically be redirected to a webpage that will look like this:
 
-! ![A screenshot of Jupyter Notebook showing the tutorial notebook](images/jupyter-notebook.png) 
+![A screenshot of Jupyter Notebook showing the tutorial notebook](images/jupyter-notebook.png) 
