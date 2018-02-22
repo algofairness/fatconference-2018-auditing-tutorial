@@ -35,3 +35,7 @@ how tutorial attendees can use this method in their own datasets.
 * Jupyter Notebook: TBD.
 * Installation Instructions: TBD.
 
+## Papers
+
+* Feldman et al., [Certifying and Removing Disparate Impact](https://dl.acm.org/citation.cfm?id=2783311), KDD 2015
+* Adler et al., [Auditing Black-Box Models for Indirect Influence](https://link.springer.com/article/10.1007/s10115-017-1116-3), Knowledge and Information Systems, 54(1):95--122, 2018.
