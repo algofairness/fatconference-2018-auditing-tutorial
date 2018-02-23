@@ -31,9 +31,9 @@ how tutorial attendees can use this method in their own datasets.
 
 ## Materials
 
-* Slides: TBD.
+* Get the talk slides, in [PDF](slides.pdf) or [PPTX](slides.pptx).
 * Follow the [installation instructions](install.html).
-* Get the [Jupyter Notebook](tutorial.ipynb).
+* Get the [Jupyter Notebook](tutorial.ipynb) for the hands-on demo.
 
 ## Papers
 
